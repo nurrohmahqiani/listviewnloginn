@@ -1,5 +1,10 @@
-# MODERN LOGIN UI x FLUTTER
+assalamualaikum wr. wb.
 
-Watch tutorial here: https://youtu.be/Dh-cTQJgM-Q
+perkenalkan,
+Nama : Nur Rohmah Risqiani
+NIM : 3337220014
+Kelas : B
+Jurusan : Informatika
+Universitas Sultan Ageng Tirtayasa
 
-![72692840-4960-4603-B21E-3BC8442AA19F](https://user-images.githubusercontent.com/29016489/206952739-29d2403c-c26b-472f-9f4d-fdc0e1458326.JPG)
+Berikut ini adalah codingan yang menampilkan halaman login, serta halaman listview beberapa produk. Terima kasi 
